@@ -10,4 +10,8 @@ public class SpringJokeAppApplication {
 		SpringApplication.run(SpringJokeAppApplication.class, args);
 	}
 
+
+
 }
+
+
